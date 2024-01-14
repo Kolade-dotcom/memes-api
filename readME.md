@@ -13,8 +13,7 @@ Before running the web scraper, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```
-   git clone <repository_url>
-   cd web-scraper-for-memes
+   git clone https://github.com/Kolade-dotcom/memes-api
    ```
 
 2. Install the dependencies:
